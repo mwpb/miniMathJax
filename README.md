@@ -1,1 +1,0 @@
-# Minimal MathJax Distribution

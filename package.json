@@ -1,0 +1,27 @@
+{
+  "name": "minimathjax",
+  "version": "1.0.0",
+  "description": "A lightweight subset of MathJax that renders TeX using SVG.",
+  "main": "test.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mwpb/miniMathJax.git"
+  },
+  "keywords": [
+    "mathjax",
+    "mini",
+    "minimathjax",
+    "minified",
+    "latex",
+    "tex"
+  ],
+  "author": "Matthew Burke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mwpb/miniMathJax/issues"
+  },
+  "homepage": "https://github.com/mwpb/miniMathJax#readme"
+}

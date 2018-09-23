@@ -34,7 +34,8 @@ Modify the path './MathJax.js' as required.
 
 ## Authors
 
-* [Matthew Burke](https://mwpb.uk) - Initial work.
+* MathJax team - creating the MathJax library in the first place.
+* [Matthew Burke](https://mwpb.uk) - stripping out non-SVG renderers and non-TeX inputs.
 
 ## License
 

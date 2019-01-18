@@ -1,5 +1,5 @@
 
-*DS_Store
+**/*DS_Store
 # Logs
 logs
 *.log
@@ -73,3 +73,5 @@ typings/
 
 # Serverless directories
 .serverless
+jax/.DS_Store
+jax/input/.DS_Store

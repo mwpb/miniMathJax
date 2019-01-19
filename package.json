@@ -1,6 +1,6 @@
 {
   "name": "minimathjax",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A lightweight subset of MathJax that renders TeX using SVG.",
   "main": "test.html",
   "scripts": {

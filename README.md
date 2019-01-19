@@ -1,6 +1,6 @@
 # miniMathJax
 
-A lightweight subset (15.8MB as of 2018-09-22) of MathJax that renders TeX using SVG. 
+A lightweight subset (11.7MB as of 2019-01-19) of MathJax that renders TeX using SVG. 
 
 ## Getting started
 
